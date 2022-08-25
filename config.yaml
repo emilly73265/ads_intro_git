@@ -1,3 +1,5 @@
 database
-  user:julia
+  user:emilly
   passoword:123456
+  
+  host: http://localholst/
